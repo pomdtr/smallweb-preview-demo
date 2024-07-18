@@ -4,9 +4,9 @@ All commit in this repository can be referenced by a preview URL.
 
 Ex:
 
-- main branch: <https://preview-demo-main.smallweb.run>
+- main branch: <https://preview-demo-ab05ff2.smallweb.run>
 - 1st commit: <https://preview-demo-835698d.smallweb.run>
-- PR branch: <https://preview-demo-branch.smallweb.run>
+- PR branch: <https://preview-952ab79.smallweb.run>
 
 ## How does it work ?
 
