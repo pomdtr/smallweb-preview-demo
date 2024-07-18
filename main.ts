@@ -1,3 +1,3 @@
 export default {
-    fetch: () => new Response("First Commit!"),
+    fetch: () => new Response("Second Commit!"),
 };
